@@ -7,7 +7,7 @@ Project was coded and tested on MacOS, no gurantee for Windows! </br>
 
 ### SETUP
 1. Setup a Pyhton environment on your computer </br> 
-(I recommend using a specific Touchdesigner env for all projects)
+(I recommend using a specific anaconda env for all projects)
 2. pip install *cv2, numpy* and *dlib* on that env
 3. Link your pyhton env in *Preferences/General* in "Python 64-bit Module Path"</br>
 (e.g. /opt/anaconda3/envs/Touchdesigner/lib/python3.9/site-packages)
